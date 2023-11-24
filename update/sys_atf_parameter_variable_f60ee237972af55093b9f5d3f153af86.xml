@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Last name</column_label>
+        <column_label/>
         <comments>Exclusive Parameter</comments>
         <copied_from/>
         <create_roles/>
